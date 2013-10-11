@@ -1,0 +1,6 @@
+static: true
+server: puma
+public_folder: public
+haml:
+    format: html5
+
